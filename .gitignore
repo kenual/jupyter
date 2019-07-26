@@ -102,12 +102,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# Python venv
-pyvenv.cfg
-bin/
-include/
-
-# Jupyter Notebook
-etc/
-share/
