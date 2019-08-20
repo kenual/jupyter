@@ -1,1 +1,8 @@
+# Jupyter
 jupyterlab
+
+# Data manipulation and analysis
+pandas
+
+# Machine learning
+scikit-learn
