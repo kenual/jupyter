@@ -6,3 +6,10 @@ pandas
 
 # Machine learning
 scikit-learn
+
+# Computer vision
+opencv-python
+
+# Development tools
+pylint
+autopep8
