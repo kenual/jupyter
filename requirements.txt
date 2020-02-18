@@ -7,8 +7,8 @@ pandas
 # Machine learning
 scikit-learn
 
-# Computer vision
-opencv-python
+# Deep learning network
+tensorflow
 
 # Development tools
 pylint
